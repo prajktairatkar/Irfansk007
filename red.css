@@ -1,0 +1,18 @@
+@keyframes change-color {
+    from { background-color: aqua;}
+    to { background-color: yellow;}
+
+}
+
+
+.container{
+    animation-name: change-color;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+#jack{
+    background-color: blue;
+}
+body {
+    position: relative;
+}

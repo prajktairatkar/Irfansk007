@@ -1,0 +1,10 @@
+.content{
+    background-image: url(bgm.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100.4%;
+    height:542px;
+    top:-6px;
+    left:-5px;
+}

@@ -1,0 +1,7 @@
+<link rel="icon" type="image/x-icon" href="5.png"
+
+above is for adding icon to title,add this just below the title tag
+
+
+for adding bgm image add-->
+style="background-image: url('bgm2.png');background-repeat: no-repeat;background-size: cover;
